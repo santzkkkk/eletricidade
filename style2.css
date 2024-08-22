@@ -1,0 +1,22 @@
+body{background-color:rgb(55, 5, 121);
+    color: white;
+}
+
+nav {text-align: center;
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+}
+div{
+    text-align: center;
+}
+div img{
+width: 600px;
+height: 400px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
